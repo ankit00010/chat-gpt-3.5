@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=710FF7&random=false&width=435&lines=ChatGPT+Web+Application+!" alt="Typing SVG" /></a># ChatGPT Web Application
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=710FF7&random=false&width=435&lines=ChatGPT+Web+Application+!" alt="Typing SVG" /></a>
 
 This is a simple chatbot web application powered by the OpenAI API. Similar to the popular chatbot ChatGPT, it allows users to input text, sends the request to OpenAI, and displays the relevant response in the chat area. The left-hand sidebar stores all previous chats for easy reference.
 
